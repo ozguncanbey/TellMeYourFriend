@@ -14,6 +14,7 @@
 		7719C3652A5D2D3400494A87 /* TellMeYourFriend.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7719C3632A5D2D3400494A87 /* TellMeYourFriend.xcdatamodeld */; };
 		7719C3672A5D2D3400494A87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7719C3662A5D2D3400494A87 /* Assets.xcassets */; };
 		7719C36A2A5D2D3400494A87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7719C3682A5D2D3400494A87 /* LaunchScreen.storyboard */; };
+		7719C3722A5D2DBE00494A87 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7719C3712A5D2DBE00494A87 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7719C3662A5D2D3400494A87 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7719C3692A5D2D3400494A87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7719C36B2A5D2D3400494A87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7719C3712A5D2DBE00494A87 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				7719C35A2A5D2D3400494A87 /* AppDelegate.swift */,
 				7719C35C2A5D2D3400494A87 /* SceneDelegate.swift */,
 				7719C35E2A5D2D3400494A87 /* ViewController.swift */,
+				7719C3712A5D2DBE00494A87 /* DetailsViewController.swift */,
 				7719C3602A5D2D3400494A87 /* Main.storyboard */,
 				7719C3662A5D2D3400494A87 /* Assets.xcassets */,
 				7719C3682A5D2D3400494A87 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				7719C35B2A5D2D3400494A87 /* AppDelegate.swift in Sources */,
 				7719C35D2A5D2D3400494A87 /* SceneDelegate.swift in Sources */,
 				7719C3652A5D2D3400494A87 /* TellMeYourFriend.xcdatamodeld in Sources */,
+				7719C3722A5D2DBE00494A87 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
